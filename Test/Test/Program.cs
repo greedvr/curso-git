@@ -11,6 +11,7 @@ namespace Test
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
             Console.WriteLine("oi");
+            Console.WriteLine("olá");
 
             Console.ReadLine();
         }
